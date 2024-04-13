@@ -26,4 +26,4 @@ Finally, using the information obtained from semantic analysis, generate machine
 
 By following these steps, you can successfully integrate the "BALKAYA" variable type into your language, enhancing your compiler design.
 
-*Note: The choice of the name "BALKAYA" for the custom variable type is inspired by my last name, giving the compiler a touch of personal charm.*
+*Note: The choice of the name "BALKAYA " for the custom variable type is inspired by my last name, giving the compiler a touch of personal charm.*
